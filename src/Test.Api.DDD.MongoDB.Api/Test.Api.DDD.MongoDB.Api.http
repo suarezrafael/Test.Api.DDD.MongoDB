@@ -1,0 +1,6 @@
+@Test.Api.DDD.MongoDB.Api_HostAddress = http://localhost:5117
+
+GET {{Test.Api.DDD.MongoDB.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
